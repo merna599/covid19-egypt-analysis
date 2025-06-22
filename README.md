@@ -41,10 +41,6 @@ It includes visualizations and trends to understand the impact and progression o
 2. Run the cells in order.
 3. Visualizations will be generated for each section.
 
-## 🙋 About Me
-
-I'm Mirna Mamdouh, a Computer Science graduate specializing in Data Science.  
-I created this project to practice real-world data analysis and visualization skills.
 
 ## 🔗 Project Link
 
