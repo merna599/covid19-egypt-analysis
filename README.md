@@ -28,12 +28,6 @@ It includes visualizations and trends to understand the impact and progression o
 - Plotly  
 - Google Colab
 
-## 📈 Sample Visualizations
-
-![Total Cases](images/total_cases_plot.png)
-![Death Rate](images/death_rate_plot.png)
-![Egypt vs China](images/egypt_vs_china.png)
-
 ## 🔍 Key Insights
 
 - Egypt saw the highest number of deaths during [Month, Year] 📌.
